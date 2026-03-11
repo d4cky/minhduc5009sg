@@ -58,16 +58,16 @@ Git & GitHub • Linux • Jupyter • VS Code • Cloud Basics
 * **Languages:** Python, C++, JavaScript
 * **ML / AI Frameworks:**
 
-  * PyTorch (deep learning, research, experimentation)
-  * TensorFlow / Keras (deep learning, neural networks)
-  * scikit-learn (classification, regression, traditional ML)
-  * XGBoost (tree-based models, tabular data, boosting)
+  * PyTorch (Research, experimentation)
+  * TensorFlow / Keras (Neural networks studies)
+  * scikit-learn (Classification, Regression, Traditional ML)
+  * XGBoost (Tree-based models, tabular data, boosting)
 * **MLOps / Platform:**
 
-  * AWS SageMaker (training, deployment, ML pipelines)
+  * AWS SageMaker (Training, deployment, ML pipelines)
 * **Automation / Workflow:**
 
-  * n8n (workflow automation, AI pipeline orchestration)
+  * n8n (Workflow automation, AI pipeline orchestration)
 * **Data & Analysis:**
 
   * NumPy, Pandas, Matplotlib, Seaborn
